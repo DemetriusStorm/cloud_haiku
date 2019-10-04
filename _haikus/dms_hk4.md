@@ -5,4 +5,4 @@ author: DemetriusStorm
 ---
 
 Python is pretty at algorithm<br>
-Like rose petals on a sakura tree in spring<br>
+Like rose petals on a fibonachi tree in spring<br>
